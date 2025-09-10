@@ -2,7 +2,7 @@
   "type": "micro",
   "wake_word": "hey dee_va",
   "author": "Xiaochen Zou",
-  "model": "hey_dee_va.tflite",
+  "model": "https://raw.githubusercontent.com/plummm/Hey_Dee_Va/refs/heads/main/hey_dee_va.tflite",
   "version": 2,
   "trained_languages": ["en"],
   "micro": {
